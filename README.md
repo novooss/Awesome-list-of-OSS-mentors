@@ -1,7 +1,10 @@
-# Awesome-list-of-OSS-mentors
+# Awesome list of OSS mentors
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
- This is a curated list of awesome OSS mentors who are happy to help newcomers with their first pull requests, inspired by [the great experiment initiated by Lena in 2018](https://github.com/lenadroid/awesome-oss-mentors).
+## For awesome Open Source people, by awesome Open Source people
+
+ This is a community curated list of awesome OSS mentors who are happy to help newcomers with their first pull requests, inspired by [the great experiment initiated by Lena in 2018](https://github.com/lenadroid/awesome-oss-mentors).
 
  
 
