@@ -104,4 +104,4 @@
 
 
 
- The information has been sourced from publicly available datasets intended for wide dissemination and use, including [lenadroid/awesome-oss-mentors](https://github.com/lenadroid/awesome-oss-mentors) and [novooss/awesome-oss-mentors](https://github.com/novooss/awesome-open-source-mentors).
+ The information has been sourced from publicly available datasets intended for wide dissemination and use, including [lenadroid/awesome-oss-mentors](https://github.com/lenadroid/awesome-oss-mentors) and [novooss/awesome-open-source-mentors](https://github.com/novooss/awesome-open-source-mentors).
